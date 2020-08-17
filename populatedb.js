@@ -12,27 +12,27 @@ const User = require('./models/User');
 const users = [
   {
     id: 1,
-    name: 'Juan',
-    mail: 'juan@mail.com',
-    birthday: '2000-05-24'
+    name: 'Menem',
+    mail: 'Menem@mail.com',
+    birthday: '1989-05-24'
   },
   {
     id: 2,
-    name: 'Maria',
-    mail: 'maria@mail.com',
-    birthday: '2000-02-13'
+    name: 'Peron',
+    mail: 'Peron@mail.com',
+    birthday: '1946-02-13'
   },
   {
     id: 3,
-    name: 'Pedro',
-    mail: 'pedro@mail.com',
-    birthday: '2000-05-19'
+    name: 'Alfonsin',
+    mail: 'Alfonsin@mail.com',
+    birthday: '1983-05-19'
   },
   {
     id: 4,
-    name: 'Julia',
-    mail: 'julia@mail.com',
-    birthday: '1998-03-01'
+    name: 'Macri',
+    mail: 'Macri@mail.com',
+    birthday: '2015-03-01'
   }
 ];
 
